@@ -1,4 +1,30 @@
 body{
     color:pink;
-    background:blueviolet;
+    background:rgb(184, 122, 243);
+    margin:0px;
+
+}
+
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color:aquamarine;(202, 148, 31);
+
+}
+
+section {
+    background-color: aqua;(227, 180,180);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada-texto{ 
+
+    margin-right: 5%;
+}
     
